@@ -1,0 +1,3 @@
+2020-12-20 22:25:24 [main] ERROR by.aginskiy.figure.reader.QuadrangleReader = Unable to read from file. Filepath: ..\resources\data.txt
+2020-12-20 22:25:37 [main] ERROR by.aginskiy.figure.reader.QuadrangleReader = Unable to read from file. Filepath: ..\..\resources\data.txt
+2020-12-20 22:25:54 [main] ERROR by.aginskiy.figure.reader.QuadrangleReader = Unable to read from file. Filepath: main\resources\data.txt
